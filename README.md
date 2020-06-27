@@ -24,18 +24,18 @@
 <!-- TABLE OF CONTENTS -->
 
 ## 🗂 Conteúdo
-- 📝 [Tabela de Conteúdo](#-tabela-de-conte%C3%BAdo)
-- 📋 [Sobre o Projeto](#-Sobre-o-Projeto)
+- 📝 [Tabela de Conteúdo](#-conteúdo)
+- 📋 [Sobre o Projeto](#-sobre-o-projeto)
   - 🚀 [Feito Com](#-feito-com)
 - 📦 [Instalação](#-instalação)
 - 📫 [Contato](#-contato)
 
 <!-- ABOUT THE PROJECT -->
 
-##  Sobre o Projeto
+## 📋 Sobre o Projeto
 Primeiro desafio de NodeJS do GoStack da [Rocketseat](https://github.com/Rocketseat).
 
-### Feito Com
+### 🚀 Feito Com
 -   [CORS][cors]
 -   [Express][express]
 -   [ESlint][eslint]
